@@ -11,8 +11,4 @@
 ![](https://i.imgur.com/ZlOmXqL.png)
 
 ## 인게임 스크린샷
-![](https://i.imgur.com/w0MXtah.png)
-![](https://github.com/user-attachments/assets/7ad2c381-544b-4c54-906d-9620da000739)
-![](blob:https://imgur.com/29fc3fce-b4bd-412f-be11-5409c74d5dd6)
-![](https://i.imgur.com/QeWdv6e.png)
-![](blob:https://imgur.com/0e701b62-1705-4142-ac51-f29d5c295b3a)
+![](https://imgur.com/iYicUMo)

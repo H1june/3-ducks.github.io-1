@@ -1,4 +1,4 @@
-# Team-Handmade
+![image](https://github.com/user-attachments/assets/d36ede43-82f3-4203-a305-8160b47cf763)# 미운 오리 삼형제
 
 ## 작품 개요
 
@@ -8,5 +8,11 @@
 친구를 구하기 위해, 숲을 지키기 위해, 그리고 자신을 증명해내기 위해 엘라린은 다시 전장으로 향한다.  
 
 ## 포스터
+![](blob:https://imgur.com/ec859435-74a4-479e-80b3-467a7eef4d67)
 
+## 인게임 스크린샷
+![](https://i.imgur.com/w0MXtah.png)
 ![](https://github.com/user-attachments/assets/7ad2c381-544b-4c54-906d-9620da000739)
+![](blob:https://imgur.com/29fc3fce-b4bd-412f-be11-5409c74d5dd6)
+![](https://i.imgur.com/QeWdv6e.png)
+![](blob:https://imgur.com/0e701b62-1705-4142-ac51-f29d5c295b3a)

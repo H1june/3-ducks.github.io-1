@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d36ede43-82f3-4203-a305-8160b47cf763)# 미운 오리 삼형제
+# 미운 오리 삼형제
 
 ## 작품 개요
 
@@ -8,7 +8,7 @@
 친구를 구하기 위해, 숲을 지키기 위해, 그리고 자신을 증명해내기 위해 엘라린은 다시 전장으로 향한다.  
 
 ## 포스터
-![](blob:https://imgur.com/ec859435-74a4-479e-80b3-467a7eef4d67)
+![](https://i.imgur.com/ZlOmXqL.png)
 
 ## 인게임 스크린샷
 ![](https://i.imgur.com/w0MXtah.png)

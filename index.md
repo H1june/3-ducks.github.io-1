@@ -9,4 +9,4 @@
 
 ## 포스터
 
-https://github.com/user-attachments/assets/7ad2c381-544b-4c54-906d-9620da000739
+(https://github.com/user-attachments/assets/7ad2c381-544b-4c54-906d-9620da000739)

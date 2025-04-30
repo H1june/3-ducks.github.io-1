@@ -12,3 +12,5 @@
 
 ## 인게임 스크린샷
 ![](https://i.imgur.com/iYicUMo.png)
+![](https://i.imgur.com/yHsMQVN.png)
+![](https://i.imgur.com/7uflJag.png)
